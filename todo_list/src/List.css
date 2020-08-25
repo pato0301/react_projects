@@ -1,0 +1,9 @@
+.todo {
+    list-style-type: none;
+}
+.delete-button {
+    margin-left: 10px;
+}
+.add-button {
+    margin-left: 10px;
+}
